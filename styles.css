@@ -1,0 +1,23 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+h1 {
+	font-size: 42px;
+}
+h2 {
+	font-size: 32px;
+}
+#header{
+	background-color: #66A5AD;
+	padding:80px;
+	margin-bottom:50px;
+}
+
+#header h1, #header h2 {
+	color:#FFFFFF;
+}
+
+#about{
+	margin-bottom 50px
+}
